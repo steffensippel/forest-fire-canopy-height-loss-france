@@ -55,6 +55,8 @@ Variables used for the predictive model are processed either on 1 ha subregion l
 
 Full overview of features, and how they were processed: https://docs.google.com/document/d/1BDKdyl_VBO7neiIKARMTksPjVSHhLtXXyLt3Ew1Y_R4/edit?usp=sharing
 
+Input files are stored locally. 
+
 ### 4. Building a model to predict height loss
 
 
