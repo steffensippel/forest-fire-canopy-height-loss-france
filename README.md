@@ -11,7 +11,7 @@ The objective is to identify and quantify importance of variables (ecological, e
 -Annual canopy height maps (2014–2025) at 1.5 m resolution derived from SPOT-6/7 imagery.
 
 ### Additional predictors 
-... 
+List of input / output files for the processing of features: https://docs.google.com/document/d/1BDKdyl_VBO7neiIKARMTksPjVSHhLtXXyLt3Ew1Y_R4/edit?usp=sharing
 
 ## Workflow 
 ### 1. Polygon Partioning
@@ -52,6 +52,8 @@ Variables used for the predictive model are processed either on 1 ha subregion l
 - Tree cover / spatial vegetation pattern 
 - Forest composition 
 - Forest Management
+
+Full overview of features, and how they were processed: https://docs.google.com/document/d/1BDKdyl_VBO7neiIKARMTksPjVSHhLtXXyLt3Ew1Y_R4/edit?usp=sharing
 
 ### 4. Building a model to predict height loss
 
